@@ -10,7 +10,7 @@
 - [flags](#flags)
 
 ## people
-emoji | alias | name
+emoji | code | name
 ---|---|---
 😀 | `:grinning:` | GRINNING FACE
 😃 | `:smiley:` | SMILING FACE WITH OPEN MOUTH
